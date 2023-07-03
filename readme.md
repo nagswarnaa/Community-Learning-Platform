@@ -2,7 +2,7 @@ Project Name: Community Learning Platform
 
 Project Description:
 
-Build a Community Learning Platform where people can post and share educational content such as articles, video links, tutorial guides, coding snippets, and quizzes. This platform will facilitate community-driven learning and promote knowledge sharing among users.
+Building a Community Learning Platform where people can post and share educational content such as articles, video links, tutorial guides, coding snippets, and quizzes. This platform will facilitate community-driven learning and promote knowledge sharing among users.
 
 Project Components:
 
